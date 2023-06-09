@@ -1,0 +1,20 @@
+[
+ {
+    "image":"https://i.imgur.com/SOuZ5Ie.jpg",
+    "title":"Project 1",
+    "subTitle":"Soon will be this section a showroom for my projects",
+    "interval": 2500
+ },
+ {
+    "image":"https://cdn.pixabay.com/photo/2017/07/28/23/18/coming-soon-2550190_960_720.jpg",
+    "title":"Project 2",
+    "subTitle":"Soon will be this section a showroom for my projects",
+    "interval": 2500
+ },
+ {
+    "image":"https://i.imgur.com/MTB79Ph.jpg",  
+    "title":"Project 3",
+    "subTitle":"Soon will be this section a showroom for my projects",
+    "interval": 2500
+ }
+]
